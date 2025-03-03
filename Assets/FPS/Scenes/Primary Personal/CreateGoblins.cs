@@ -61,13 +61,14 @@ namespace AA2893
         }
         public void Update()
         {
-        //Debug.Log("A new goblin emerges! Beware " + getGoblinName() + "!");
+            GetGoblinName();
+        Debug.Log("A new goblin emerges! Beware " + GetGoblinName() + "!");
         }
 
-        public string getGoblinName()
+        public string GetGoblinName()
         {
-            return goblinName;
             Debug.Log("getGoblinName successful");
+            return goblinName;
         }
 
 
