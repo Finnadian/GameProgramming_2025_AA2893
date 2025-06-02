@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 9aa3324827447084b85772c0005d7fa8
+timeCreated: 1463255793
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63365
+  packageName: Score System Starter Kit
+  packageVersion: 1.0
+  assetPath: Assets/sumScore/Scripts/SumScoreManager.cs
+  uploadId: 119035
